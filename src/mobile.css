@@ -1,0 +1,184 @@
+@media all and (max-width:1160px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+    
+    .top-logo .logo .m-btn{
+        display:block;position:absolute;top:2px;right:2px;color:#ffbb00;
+        padding:0;cursor:pointer;width:38px;height:40px;float:right;z-index:9999;
+        
+    }
+    .top-logo .logo .m-btn:after{
+        display:block;border-top:2px solid #fff;border-bottom:2px solid #fff;
+        content:''; position:absolute;height:3px;padding-top:4px;
+        width:100%;right:14%;top:9px;
+    }
+    .top-logo .logo .m-btn:before {
+        display:block;content:'';border-bottom:2px solid #fff;position:absolute;
+        height:3px;width:100%;right:14%;top:24px;
+    }
+    
+    .top-logo .logo{float:none;width:100%;padding:3px 40px 5px 5px;}
+    .top-logo .logo img{max-width:220px;}
+    .top-logo .ads{float:none;width:100%;padding-left:0;text-align:center;}
+    
+    .bit-topmenu{width:95%;margin:25px auto;}
+    .bit-logo{width:30%;height:38px;padding:7px 0px;}
+    .bit-logo img{max-height:22px;}
+    .bit-menu{width:70%;height:38px;padding:0px 5px;}
+    .bit-menu .widget-menu{display:none;}
+    .bit-menu li.metamast-btn{width:auto;font-size:12px;height:28px;line-height:28px;padding:0 12px;}
+
+    
+
+
+    .top-menu ul.active{
+        display:block;position:absolute;top:0px;left:0px;width:80%;max-width:280px;z-index:99999;
+        height:100%;min-height:800px;padding:5px 0px 0px 0px;background:#fad305;
+        opacity:0.95;filter:alpha(opacity=95);
+        transition:left 1s cubic-bezier(0.16, 0.05, 0.05, 0.90);
+        -o-transition:left 1s cubic-bezier(0.16, 0.05, 0.05, 0.90);
+        -ms-transition:left 1s cubic-bezier(0.16, 0.05, 0.05, 0.90);
+        -moz-transition:left 1s cubic-bezier(0.16, 0.05, 0.05, 0.90);
+        -webkit-transition:left 1s cubic-bezier(0.16, 0.05, 0.05, 0.90);
+    }
+    .top-menu li{display:block;width:100%;line-height:30px;}
+    .top-menu li a.active::before{
+        position:absolute;bottom:15px;right:0;left:8px;margin:0;width:0;height:0;content:' ';
+        border:6px solid transparent;border-left-color:#eee;
+    }
+    .top-menu li a{
+        display:block;padding:5px 20px;color:#444;font-weight:500;
+        border-bottom:1px solid #b49802;
+        border-radius:0px;-khtml-border-radius:0px;-moz-border-radius:0px;
+    }
+    .top-menu li a:hover, .top-menu li a.active{
+        background:#b49802;color:#eee;
+        border-radius:0px;-khtml-border-radius:0px;-moz-border-radius:0px;
+    }
+    
+}
+
+@media screen and (min-width: 890px) and (max-width: 1199px){
+    .bit-header{height:484px;padding-top:60px;}
+    .bit-livechart{padding:0 1%;}
+    .bit-rounds{margin:60px auto 0 auto;padding:0 1%;}
+    .bit-community{padding:0 1% 0 1%;margin-top:60px;background:none;}
+
+    .bit-onapp{height:500px;padding:50px 0;margin-top:60px;position: relative;background-position:80% -100%;}
+    .bit-onapp .onapp-imgsec{top:35px;left:-50px;}
+    .bit-onapp .onapp-imgsec img{max-height:495px;}
+    .bit-onapp .onapp-boxicon{position:absolute;top:45%;right:60px;}
+    .bit-token{padding:60px 1% 20px 1%;}
+    .bit-exchangelist{padding:40px 1% 0 1%;}
+    .bit-roadmap{padding:60px 1% 40px 1%;}
+}
+
+@media screen and (min-width: 590px) and (max-width: 889px){
+    
+    .bit-header{
+        background:url(img/bg-hamtop-mobile.png) no-repeat;background-size:100%;
+        height:auto;padding-bottom:40px;padding-top:50px;
+    }
+
+    .bit-livechart{margin:15px 2%;}
+    .bit-livechart .lc-box{padding:30px 25px;}
+    .bit-livechart .item-value{font-size:15px;}
+    .bit-livechart .item-label{font-size:13px;}
+
+    .bit-cover-bnc{margin:20px auto;}
+
+    .bit-rounds{margin:35px auto 0 auto;padding:0 2%;}
+    .bit-rounds .rounds-topic{margin-top:20px;}
+
+    .bit-community{padding:0 2% 0 2%;margin-top:40px;background:none;}
+    .bit-community .col-thumbs{float:none;width:100%;text-align:center;}
+    .bit-community .col-text{float:none;width:100%;padding-left:0px;}
+
+    .bit-onapp{height:400px;padding:80px 0;margin-top:120px;position: relative;background-position:80% -100%;}
+    .bit-onapp .main-header{margin-top:-60px;}
+    .bit-onapp .onapp-topic{font-size:16px;margin-top:-6px;}
+    .bit-onapp .onapp-imgsec{top:35px;left:-50px;}
+    .bit-onapp .onapp-imgsec img{max-height:395px;}
+    .bit-onapp .onapp-boxicon{top:165px;right:0px;font-size:14px;text-align:right;}
+    .bit-onapp .onapp-boxicon .bicon-lable{padding-right:25px;margin-bottom:5px;}
+    .bit-onapp .onapp-boxicon .bicon-btn img{max-height:40px;}
+
+    .bit-token{padding:60px 2% 20px 2%;background:none;}
+    .bit-token .token-col{float:none;width:100%;margin-top:20px;text-align:center;}
+    .bit-token .token-col.right{float:none;width:100%;padding:20px 0 0 40px;}
+    .bit-token .token-row{float:left;width:50%;}
+    .bit-token .col-topic{font-size:20px;}
+    .bit-token .col-text{font-size:36px;margin-bottom:20px;}
+
+    .bit-exchangelist{padding:20px 2% 0 2%;}
+    .bit-exchangelist .exlist-thumbs{padding:25px 0;}
+    .bit-exchangelist .exlist-thumbs img{max-height:30px;}
+
+    .bit-roadmap{padding:40px 2% 40px 2%;}
+}
+
+
+@media screen and (min-width: 280px) and (max-width: 589px){
+    .h1-header{font-size:24px;line-height:26px;margin-top:30px;}
+    .h2-header{font-size:18px;}
+    .p-header{font-size:14px;padding:0 30px;}
+    .p-header br{display:none;}
+    .btn-header a{font-size:14px;height:52px;width:195px;}
+    .doted-red{width: 12px;height: 12px;}
+    .main-header{font-size:24px;}
+
+    .bit-header{
+        background:url(img/bg-hamtop-mobile.png) no-repeat;background-size:100%;
+        height:auto;padding-bottom:20px;
+    }
+
+    .bit-livechart{margin:8px 3%;}
+    .bit-livechart .lc-head{font-size:16px;line-height:18px;}
+    .bit-livechart .lc-head i{font-size:12px;}
+    .bit-livechart .lc-box{padding:25px 20px;}
+    .bit-livechart .lc-itemlist{float:left;width:50%;margin-bottom:10px;}
+    .bit-livechart .lc-itemlist:nth-child(2n+1) {clear:both;}
+    .bit-livechart .item-value{font-size:15px;}
+    .bit-livechart .item-label{font-size:14px;}
+
+    .bit-cover-bnc{margin:15px auto;}
+
+    .bit-rounds{margin:45px auto 0 auto;padding:0 3%;}
+    .bit-rounds .rounds-col{float:none;width:100%;margin-right:0;}
+    .bit-rounds .rounds-col.right{width:100%;margin-right:0;}
+    .bit-rounds .rounds-topic{margin-top:20px;}
+
+    .bit-community{padding:0 3% 0 3%;margin-top:40px;background:none;}
+    .bit-community .community-h1{font-size:24px;}
+    .bit-community .community-p{font-size:14px;}
+    .bit-community .col-thumbs{float:none;width:100%;text-align:center;}
+    .bit-community .col-text{float:none;width:100%;padding-left:0px;}
+
+    .bit-onapp{height:200px;padding:80px 0;margin-top:120px;position: relative;background-position:80% -100%;}
+    .bit-onapp .main-header{margin-top:-160px;}
+    .bit-onapp .onapp-topic{font-size:16px;margin-top:-6px;}
+    .bit-onapp .onapp-imgsec{top:-5px;left:-50px;}
+    .bit-onapp .onapp-imgsec img{max-height:295px;}
+    .bit-onapp .onapp-boxicon{top:65px;right:5px;font-size:12px;text-align:right;}
+    .bit-onapp .onapp-boxicon .bicon-lable{padding-right:25px;margin-bottom:5px;}
+    .bit-onapp .onapp-boxicon .bicon-btn img{max-height:22px;}
+
+    .bit-token{padding:120px 3% 20px 3%;background:none;}
+    .bit-token .token-col{float:none;width:100%;margin-top:20px;}
+    .bit-token .token-col.right{float:none;width:100%;padding:20px 0 0 40px;}
+    .bit-token .col-topic{font-size:20px;}
+    .bit-token .col-text{font-size:36px;margin-bottom:20px;}
+
+    .bit-exchangelist{padding:40px 3% 0 3%;}
+    .bit-exchangelist .exlist-thumbs{padding:15px 0 40px 0;}
+    .bit-exchangelist .exlist-thumbs .exlist-box{width:46%;margin-right:10px;margin-bottom:10px;}
+
+    .bit-roadmap{padding:30px 3% 30px 3%;}
+
+    .bg-footer{padding:20px 15px;}
+    .bg-footer .foot-left{float:none;width:100%;padding-top:0px;}
+    .bg-footer .foot-left img{max-height:26px;}
+    .bg-footer .foot-right{float:none;width:100%;text-align:right;margin-top:30px;}
+    .bg-footer .foot-line{padding:6px 0 6px 0;margin:0 0 0 0;width:100%;}
+    .bg-footer .foot-social{padding:8px 0;margin-top:10px;text-align:left;}
+    .bg-footer .foot-social img{margin-left:0;margin-right:20px;}
+
+}
