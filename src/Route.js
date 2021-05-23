@@ -9,7 +9,7 @@ const Router = () => {
     <div>
       <Route path="/" exact component={HomePage} />
       <Route path="/contact" exact component={ContactPage} />
-      <Route path="/ico" exact component={IcoPage} />
+      <Route path="/ico" exact component={Ico} />
     </div>
 );
 };
