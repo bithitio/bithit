@@ -33,7 +33,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} to='/contact'>
                     Contact
                 </NavLink>
-                <NavLink onClick={closeSidebar} redirect to='/github'>
+                <NavLink onClick={closeSidebar} as="a" href="https://github.com/bithitio/bithit" target="_blank">
                     Github
                 </NavLink>
             </NavMenu>
