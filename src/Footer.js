@@ -20,9 +20,7 @@ function Footer(){
                     <div class="foot-line">
                         <i class="far fa-envelope"></i> support@bithit.com
                     </div>
-                    <div class="foot-line">
-                        <i class="fas fa-phone-alt"></i> +6699 999 9999
-                    </div>
+                    
                     <div class="foot-line social">
                     <div class="foot-social">
                         <a href="https://www.facebook.com/bithitprotocol/" target="_blank"><img src={i_facebook} alt="facebook" /></a>
