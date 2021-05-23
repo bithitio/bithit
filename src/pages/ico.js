@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Ico = () => {
+const ico = () => {
     return(
         <div>ico test page</div>
     )
 };
 
-export default Ico;
+export default IcoPage;
