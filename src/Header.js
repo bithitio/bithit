@@ -23,7 +23,7 @@ function Header(){
                 Transperent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
-                    <a href="/ico">PRE SALE</a>
+                    <a href="">PRE SALE</a>
                 </div>
             </div>
         </div>
