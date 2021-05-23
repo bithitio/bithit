@@ -33,7 +33,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} to='/contact'>
                     Contact
                 </NavLink>
-                <NavLink onClick={closeSidebar} exact to='https://github.com/bithitio'>
+                <NavLink onClick={closeSidebar} to='/github'>
                     Github
                 </NavLink>
             </NavMenu>
