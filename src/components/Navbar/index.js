@@ -33,8 +33,8 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} to='/contact'>
                     Contact
                 </NavLink>
-                <NavLink onClick={closeSidebar} to='/ourteam'>
-                    Our Team
+                <NavLink onClick={closeSidebar} to='/github'>
+                    Github
                 </NavLink>
             </NavMenu>
 
