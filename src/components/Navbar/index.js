@@ -27,7 +27,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} to='/whitepaper'>
                     Whitepaper
                 </NavLink>
-                <NavLink onClick={closeSidebar} to='/howtobuy'>
+                <NavLink onClick={closeSidebar} to='/ico'>
                     How to Buy
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/contact'>
