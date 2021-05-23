@@ -2,6 +2,7 @@ import React from 'react';
 import { Route, useHistory } from 'react-router-dom';
 import HomePage from './pages/Home';
 import ContactPage from './pages/Contact';
+import IcoPage from './pages/ico';
 
 const Router = () => {
   const history = useHistory();
@@ -9,7 +10,7 @@ const Router = () => {
     <div>
       <Route path="/" exact component={HomePage} />
       <Route path="/contact" exact component={ContactPage} />
-      <Route path="/ico" exact component={Ico} />
+      <Route path="/ico" exact component={IcoPage} />
     </div>
 );
 };
