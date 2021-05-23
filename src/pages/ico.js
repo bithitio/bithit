@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Contact = () => {
+const ico = () => {
     return(
         <div></div>
     )
