@@ -11,12 +11,6 @@ const Router = () => {
       <Route path="/contact" exact component={ContactPage} />
     </div>
 );
-(
-    <div>
-      <Route path="/github" exact component={https://github.com/bithitio} />
-      <Route path="/contact" exact component={ContactPage} />
-    </div>
-  );
 };
 
 export default Router;
