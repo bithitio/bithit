@@ -8,7 +8,7 @@ const Bitrounds = () => {
                             <div class="rounds-topic">Pre Sale</div>
                             <div class="rounds-box">
                                 <div class="rbox-top">
-                                    Fulfilled
+                                    Opening
                                     <span class="rbox-int">1</span>
                                 </div>
                                 <div class="rbox-detail">
@@ -17,8 +17,8 @@ const Bitrounds = () => {
                                     <div class="values line-br">$0.001</div>
                                     <div class="label-1">PRICE</div>
                                     <div class="label-2">
-                                        Start date: Apr 29<br />
-                                        End date: May 30
+                                        Start date: May 30<br />
+                                        End date: June 27
                                     </div>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@ const Bitrounds = () => {
                                     <span class="rbox-int">2</span>
                                 </div>
                                 <div class="rbox-detail">
-                                    <div class="values">10%</div>
+                                    <div class="values">40%</div>
                                     <div class="label-1">TOTAL ALLOCATION</div>
                                     <div class="values line-br">$0.0012</div>
                                     <div class="label-1">PRICE</div>
