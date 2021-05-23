@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, useHistory } from 'react-router-dom';
 import HomePage from './pages/Home';
 import ContactPage from './pages/Contact';
-import IcoPage from './pages/ico';
+import IcoPage from './pages/Ico';
 
 const Router = () => {
   const history = useHistory();
