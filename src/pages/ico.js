@@ -6,4 +6,4 @@ const ico = () => {
     )
 };
 
-export default IcoPage;
+export default ico;
