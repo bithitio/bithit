@@ -2,7 +2,7 @@ import React from 'react';
 
 const ico = () => {
     return(
-        <div></div>
+        <div>ico test page</div>
     )
 };
 
