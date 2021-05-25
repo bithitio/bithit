@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Livechart from "../components/Livechart";
+
 import Bitrounds from "../components/Bitrounds";
 import Bitcommunity from "../components/Bitcommunity";
 import Bitonapp from "../components/Bitonapp";
@@ -17,7 +17,7 @@ const HomePage = () => {
         <div>
             <div data-aos="fade-up">
                 <div class="container">
-                    <Livechart />
+                    
                 </div>
 
                 <div class="bit-cover-bnc"><img src={Bitbinance} alt="binance" /></div>
