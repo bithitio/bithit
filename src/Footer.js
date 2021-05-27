@@ -28,8 +28,6 @@ function Footer(){
                         <a href="https://www.youtube.com/channel/UCzCgOXuuNFK5_Ky9aCqBM4A" target="_blank"><img src={i_youtube} alt="youtube" /></a>
                         <a href="https://twitter.com/Bithit_io" target="_blank"><img src={i_twitter} alt="twitter" /></a>
                     </div>
-<div class="statcounter"><img class="statcounter"
-src="https://c.statcounter.com/12537174/0/5800ddbc/1/"></div>
                     </div>
                 </div>
                 <div class="clear"></div>
