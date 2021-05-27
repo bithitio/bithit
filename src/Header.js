@@ -26,7 +26,7 @@ function Header(){
                 <h1 class="h1-header">BITHIT DEFI AUCTION</h1>
                 <h2 class="h2-header">DEFI • AUCTION • NFT</h2>
                 <p class="p-header">
-                Transperent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
+                Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
                     <a href="/ico">PRE SALE</a>
