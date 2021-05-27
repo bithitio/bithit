@@ -20,7 +20,7 @@ function Footer(){
                     <div class="foot-line">
                         <i class="far fa-envelope"></i> support@bithit.com
                     </div>
-                    <!-- Default Statcounter code for bithit https://bithit.io/ -->
+                    <body><!-- Default Statcounter code for bithit https://bithit.io/ -->
 <script type="text/javascript">
 var sc_project=12537174; 
 var sc_invisible=1; 
@@ -32,7 +32,7 @@ src="https://www.statcounter.com/counter/counter.js" async></script>
 <noscript><div class="statcounter"><img class="statcounter"
 src="https://c.statcounter.com/12537174/0/5800ddbc/1/" alt="Web Analytics Made
 Easy - StatCounter"></div></noscript>
-<!-- End of Statcounter Code -->
+<!-- End of Statcounter Code --></body>
                     <div class="foot-line social">
                     <div class="foot-social">
                         <a href="https://www.facebook.com/bithitprotocol/" target="_blank"><img src={i_facebook} alt="facebook" /></a>
