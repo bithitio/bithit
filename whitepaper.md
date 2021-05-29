@@ -82,7 +82,7 @@ How does BITHIT service work?
 
 •	Terms and conditions of the contract are subject to the stated conditions.
 
-•	Set and agreed. Buyer pay with smart contract using the BITHIT token or supported tokens. The sell will receive a notification and deliver products/services. Once the products or services have been delivered, _____the buyer will be assigned a predetermination.
+•	Set and agreed. Buyer pay with smart contract using the BITHIT token or supported tokens. The sell will receive a notification and deliver products/services. Once the products or services have been delivered,the buyer will be assigned a predetermination.
 
 •	Inspection time period before accepting or rejecting shipment. Finally,
 the buyer accepts the product or service, BITHIT will be paid to the seller according to the contract
@@ -155,9 +155,9 @@ Standard: BINANCE SMART CHAIN
 
 Token Supply: 90,000,000,000
 
-Initial Circulating Supply: 10,800,000 USD
+Initial Circulating Supply: 9,000,000 USD
 
-Initial Market Cap: 108,000,000 USD
+Initial Market Cap: 90,000,000 USD
 
 Pre-Sale Price: $ 0.0010 USD
 
