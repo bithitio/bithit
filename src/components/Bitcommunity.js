@@ -23,13 +23,25 @@ const Bitcommunity = () => {
                 <p>
                 Data from entrepreneurs using the platform will receive credit score from their customers, this is part of credit rating mechanism for merchant shops and provide easier access to capital.
                 </p>
+                <p>
+                BITHIT, the professional liquidity aggregator who helps open future DeFi worlds for entrepreneurs around the world.   
+                </p>
                     </div>
             <div class="col-text fullcol">
                 <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
+                We want to be a part to help reduce social inequality worldwide. At the same time, we want to promote a new career opportunity, which is open system and not subject to capitalism.
                 </p>
                 <p>
-                unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                Automated Transaction
+                </p>
+                <p>
+                BITHIT, the professional liquidity aggregator who helps open the future world of DeFi for entrepreneurs around the world. We want to be a part to help reduce social inequality. At the same time, we want to create job opportunities for community and does not subject to capitalism.
+                </p>
+                <p>
+                BITHIT token holders will receive passive rewards. Through reflecting the results from every transaction
+                </p>
+                <p>
+                transparent transactions. Help people solve problems and the platform will keep growing.
                 </p>
             </div>
             <div class="clear"></div>
