@@ -28,12 +28,19 @@ BITHIT commercial transactions to incentivize commitment and eliminates the trus
 Introduction
 
 BITHIT is bringing a new user experience to the global payments industry.
+
 • Solution
-• Multi-Currency Payment Processing 
+
+• Multi-Currency Payment Processing
+
 • Payments
+
 • Marketplace
+
 • Governance system
+
 • Open Online Marketplaces, Service Providers, and e-Commerce Platforms.
+
 
 Because started a new job are emerging online, more people are choosing independent work over traditional employment. Better protected payment solutions. 
 
@@ -96,19 +103,32 @@ Service
 Contract service utilizes smart contract for creating digital contract
 Business agreement and peer to peer transactions. Provide a template contract that parties can use to fulfill their terms and conditions. When the basis of the term of the agreement is reached. Transactions will be performed automatically.
 
+
 •	Allows businesses to make deals without having to trust each other.
+
 •	Help businesses save money.
+
 •	Help businesses become agile and fast.
+
 •	Help increase liquidity of the business.
+
 •	Offer automatic payment.
 No need for third-party brokerage or the presence of other people
 
+
+
 How does BITHIT service work?
+
 • Platform users can choose use between auction items or product items.
+
 • Terms and conditions of the contract are subject to the stated conditions.
+
 • Set and agreed. Buyer pay with smart contract using the BITHIT token or supported tokens. The sell will receive a notification and deliver products/services. Once the products or services have been delivered,the buyer will be assigned a predetermination.
-• Inspection time period before accepting or rejecting shipment. Finally, the buyer accepts the product or service, BITHIT will be paid to the seller according to the contract
+
+• Inspection time period before accepting or rejecting shipment. Finally, the buyer accepts the product or service, BITHIT will be paid to the seller according to the contract.
+
 • Inspection period before deal closes This give the buyers sufficient time to review and confirm the transaction.
+
 • If there is a disagreement and the buyer refuses the shipment, the parties may negotiate to settle a dispute or initiate to settle a dispute resolution process on the platform
 	
 Processing payment with cryptocurrency
@@ -117,11 +137,13 @@ BITHIT payment processing solution, promote the use of cryptocurrency with its o
 A gateway to new opportunity and rapid scalability. One of main challenges facing ,crypto community is support for the BITHIT.
 
 Transaction fees and returns from transactions are used for:
+
 - Buy back BITHIT from the market
 - BITHIT’S income strategy
 - Rewarding BITHIT holders
 - Develop and hire more employee in the future
 - Platform security system
+
 
 Founder and Adviser of BITHIT
 -Consist of successful entrepreneurs, experts, and a blockchain PhD researcher. Along with a team of smart contract security engineer, encryption experts, and experienced strategic growth leaders. 
@@ -162,8 +184,11 @@ A non-fungible token is a non-interchangeable token with unique characteristics 
 NFT Use Cases
 
 •NFTs render them useful for storing distinctive information, including art pieces and any other data.
+
 •Digital art
+
 •Collectibles
+
 •Virtual assets
 
 
@@ -197,29 +222,43 @@ BITHIT focuses on giving the community a strong user base. For the direction of 
 
 
 BITHIT Token
+
 Standard: BINANCE SMART CHAIN
+
 Token Supply: 90,000,000,000
+
 Initial Circulating Supply: 9,000,000 USD
+
 Initial Market Cap: 90,000,000 USD
+
 Pre-Sale Price: $ 0.0010 USD
+
 Public Sale Price: $ 0.0012 USD
 
 
 
 
 Token distribution
+
 Token Release Schedule
-•	Private Sale 10%
-•	Public Sale Price 40%
-•	Liquidity Fund 20%
-•	Team 10%
+
+•Private Sale 10%
+
+•Public Sale Price 40%
+
+•Liquidity Fund 20%
+
+•Team 10%
+
 12 months fully locked then 25% quarterly
 Unlocked and distributed as per incentive/governance event
 
 
 
+
 BURN
 Burn the coins earned from the 5% auction fee every quarter.  
+
 
 For more information and latest update here or these channels
 Facebook: Twitter: Instagram: Telegram
