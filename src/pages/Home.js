@@ -28,7 +28,7 @@ const HomePage = () => {
             <div data-aos="fade-up"><Bitonapp /></div>
             <div data-aos="fade-up"><Bittoken /></div>
             <div data-aos="fade-up"><Bitexchangelist /></div>
-            <div data-aos="fade-up"><Bitroadmap /></div>
+            <div><Bitroadmap /></div>
         </div>
     )
 };
