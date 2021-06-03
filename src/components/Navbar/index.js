@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import bithitpdf from './src/components/Navbar/Bithit_Whitepaper.pdf';
+import bithitpdf from './Bithit_Whitepaper.pdf';
 import {
     Nav,
     NavLink,
