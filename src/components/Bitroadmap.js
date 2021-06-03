@@ -98,8 +98,8 @@ const Bitroadmap = () => {
 					</div>
 					<div class="road-content content-3 wow fadeInUp">
 						<p>
-							Listing on<br />
-							Coinmarketcap<br>
+							Listing on Coinmarketcap<br />
+						       <br />
 							<strong class="red">PRE SALE</strong>
 						</p>
 					</div>
