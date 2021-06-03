@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import bithitpdf from './components/Navbar/Bithit_Whitepaper.pdf';
 import {
     Nav,
     NavLink,
@@ -24,7 +25,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} exact to='/'>
                     Home
                 </NavLink>
-                <NavLink onClick={closeSidebar} as="a" href="Bithit_Whitepaper.pdf" target="_blank">
+                <NavLink onClick={closeSidebar} as="a" href={bithitpdf} target="_blank">
                     Whitepaper
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/howtobuy'>
