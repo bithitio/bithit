@@ -17,8 +17,8 @@ const Bitrounds = () => {
                                     <div class="values line-br">$0.001</div>
                                     <div class="label-1">PRICE</div>
                                     <div class="label-2">
-                                        Start date: May 30<br />
-                                        End date: June 27
+                                        Start date: June 15<br />
+                                        End date: -
                                     </div>
                                 </div>
                             </div>
