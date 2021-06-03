@@ -24,7 +24,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} exact to='/'>
                     Home
                 </NavLink>
-                <NavLink onClick={closeSidebar} to='/Bithit_Whitepaper.pdf'>
+                <NavLink onClick={closeSidebar} to='./Bithit_Whitepaper.pdf'>
                     Whitepaper
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/howtobuy'>
