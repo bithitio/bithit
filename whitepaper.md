@@ -1,3 +1,4 @@
+![Block42](./bithit.png)
 ## What is BITHIT?
 
 BITHIT is a platform for Web 3.0. This platform is built on Binance Smart Chain to offer scalability, low fees, and security.
