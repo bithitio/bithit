@@ -1,4 +1,4 @@
-What is BITHIT?
+## What is BITHIT?
 
 BITHIT is a platform for Web 3.0. This platform is built on Binance Smart Chain to offer scalability, low fees, and security.
 
@@ -15,7 +15,7 @@ BITHIT Service: Decentralized service for C2C, B2C, and B2B. And a smart payment
 
 
 
-## Vision 
+### Vision 
 
 Auction decentralized services and payments processing based on institutional-grade smart contracts that eliminate the need for buyers and sellers to trust each other. BITHIT aims to provide a user-centered solution to secure online and face-to-face transactions while broadening payments acceptance options through integrated currencies. 
 
