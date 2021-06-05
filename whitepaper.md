@@ -94,7 +94,7 @@ Pay gas fees using supported tokens
 Every transaction on Bithit can pay gas fees in BNB or Bithit which are tokens supported on the Binance Smart Chain, blockchain to perform transaction without needing to hold a Bithit token. Other than this, some payment amount may require a stablecoin or other supported tokens to make native transactions to enhance the user experience of the platform.
 
 
-
+![Block42](bit-community.png)
 
 
 ### Service
