@@ -177,10 +177,7 @@ BITHIT has a simple interface for generating a non-fungible token.
 A non-fungible token is a non-interchangeable token with unique characteristics and public transaction history. BITHIT helps users create NFT conforms to the standard.
 
 
-
-
-
-### NFT Use Cases
+ NFT Use Cases
 
 •NFTs render them useful for storing distinctive information, including art pieces and any other data.
 
