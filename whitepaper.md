@@ -57,7 +57,7 @@ Recent interest in the blockchain ecosystem and cryptoassets from listed compani
 
 
 
-Problem 
+### Problem 
 
 International transactions are costly
 Cross-border B2B transactions will reach 35 trillion USD by 2022.
@@ -71,7 +71,7 @@ The current P2P market, auction and e-commerce platforms have commission structu
 
 
 
-Solution
+### Solution
 
 Blockchain tecEcosystem
 
@@ -97,7 +97,7 @@ Every transaction on Bithit can pay gas fees in BNB or Bithit which are tokens s
 
 
 
-Service
+### Service
 
 
 Contract service utilizes smart contract for creating digital contract
@@ -117,7 +117,7 @@ No need for third-party brokerage or the presence of other people
 
 
 
-How does BITHIT service work?
+### How does BITHIT service work?
 
 • Platform users can choose use between auction items or product items.
 
@@ -158,7 +158,7 @@ Payment contract service BITHIT, AUCTION, NFT and dispute resolution function th
 
 
 
-KYC Security
+### KYC Security
 
 Information required to comply with KYC procedures. Our platform will showcase high-level safety features, including two-factor authentication high-level safety features, including two-factor authentication.
 
@@ -167,9 +167,7 @@ BITHIT is decentralized auction and trading market that products and services ca
 
 
 
-
-
-Virtual assets
+### Virtual assets
 NFTs provide the ability to digitize real-world assets. The unique nature and public transaction history provide a strong use case for creating ownership certificates. 
 
 NFT and Certificate of Ownership
@@ -181,7 +179,7 @@ A non-fungible token is a non-interchangeable token with unique characteristics 
 
 
 
-NFT Use Cases
+### NFT Use Cases
 
 •NFTs render them useful for storing distinctive information, including art pieces and any other data.
 
@@ -196,7 +194,7 @@ NFT Use Cases
 
 
 
-Marketplace for the Web 3.0
+### Marketplace for the Web 3.0
 
 BITHIT plans to launch a marketplace for auction and trading that makes a difference ,solution available through advance functionality including browser software cryptocurrency wallet , significantly lower fee-based multi-cryptocurrency support. Build-in reward system and an easy-to-use interface.  A marketplace that allows sellers to add products and services on the platform. Each item contains a product image, description, payment options.
 
@@ -213,7 +211,7 @@ work similarly to the marketplace app. Mostly, allow users to view the product i
 
 
 
-Good Governance
+### Good Governance
 BITHIT offers a standardized governance system, for every transaction decision.
 BITHIT focuses on giving the community a strong user base. For the direction of BITHIT community development.
 
@@ -221,7 +219,7 @@ BITHIT focuses on giving the community a strong user base. For the direction of 
 
 
 
-BITHIT Token
+### BITHIT Token
 
 Standard: BINANCE SMART CHAIN
 
@@ -238,7 +236,7 @@ Public Sale Price: $ 0.0012 USD
 
 
 
-Token distribution
+### Token distribution
 
 Token Release Schedule
 
@@ -260,6 +258,6 @@ BURN
 Burn the coins earned from the 5% auction fee every quarter.  
 
 
-For more information and latest update here or these channels
+### For more information and latest update here or these channels
 Facebook: Twitter: Instagram: Telegram
 
