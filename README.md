@@ -1,4 +1,4 @@
-![Block42](./logo.jpg)
+![Block42](./bithit.png)
 
 # Getting Started with Create React App
 
