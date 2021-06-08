@@ -29,7 +29,7 @@ function Header(){
                 Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
-                    <a href="/ico">PRE SALE</a>
+                    <a href="http://sale.bithit.io/" target="_blank" >PRE SALE</a>
                 </div>
             </div>
 
