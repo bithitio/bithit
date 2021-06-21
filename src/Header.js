@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import logo from './logo.png';
 import Aos from "aos";
 import "aos/dist/aos.css";
+import { Link } from 'react-router-dom';
 
 
 function Header(){
@@ -29,7 +30,7 @@ function Header(){
                 Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
-                    <a href="https://bithit.io/presale" target="" >PRE SALE</a>
+                    Link to ="/presale">Pre Sale</Link>
                 </div>
             </div>
 
