@@ -16,7 +16,7 @@ function App() {
         <Route path="/" exact component={HomePage} />
         <Route path="/howtobuy" exact component={HowtobuyPage} />
         <Route path="/contact" exact component={ContactPage} />
-        <Route component={NotFound} />
+        <noindex><Route component={NotFound} /></noindex>
       </Switch>
     </Router>
   );
