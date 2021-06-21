@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import NotFound from './NotFound';
 import HomePage from './pages/Home';
-import HowtobuyPage from './pages/Howtobuy';
+//import HowtobuyPage from './pages/Howtobuy';
 import ContactPage from './pages/Contact';
 import PreSalePage from './pages/PreSale.js';
 
