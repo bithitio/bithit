@@ -28,8 +28,8 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} as="a" href={bithitpdf} target="_blank">
                     Whitepaper
                 </NavLink>
-                <NavLink onClick={closeSidebar} to='/howtobuy'>
-                    How to Buy
+                <NavLink onClick={closeSidebar} to='/presale'>
+                    Pre Sale
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/contact'>
                     Contact
