@@ -30,7 +30,7 @@ function Header(){
                 Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
-                    Link to ="/presale">Pre Sale</Link>
+                    <Link to ="/presale">Pre Sale</Link>
                 </div>
             </div>
 
