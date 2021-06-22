@@ -18,11 +18,7 @@ class Main extends Component {
         buyTokens={this.props.buyTokens}
       />
     } else {
-      content = <BuyForm
-        ethBalance={this.props.ethBalance}
-        tokenBalance={this.props.tokenBalance}
-        buyTokens={this.props.buyTokens}
-      />
+      
     }
 
     return (
