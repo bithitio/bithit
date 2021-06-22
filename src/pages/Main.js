@@ -35,7 +35,7 @@ class Main extends Component {
           </div>
         </div>
         <br></br>        
-      <center><h6>You Address: {this.props.account}</h6></center>
+      <center><h6 class="h6-a">You Address: {this.props.account}</h6></center>
 		</div>
       
     );
