@@ -119,6 +119,7 @@
 @media screen and (min-width: 280px) and (max-width: 589px){
     .h1-header{font-size:24px;line-height:26px;margin-top:30px;}
     .h2-header{font-size:18px;}
+    .h6-a{font-size:10px;}
     .p-header{font-size:14px;padding:0 30px;}
     .p-header br{display:none;}
     .btn-header a{font-size:14px;height:52px;width:195px;}
