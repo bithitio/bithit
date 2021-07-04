@@ -29,7 +29,7 @@ const Navbar = () => {
                     Whitepaper
                 </NavLink>
                 <NavLink onClick={closeSidebar} as="a" href="https://exchange.pancakeswap.finance/#/swap" target="_blank">
-                    Pre Sale
+                    Sale
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/contact'>
                     Contact
