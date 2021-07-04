@@ -28,7 +28,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} as="a" href={bithitpdf} target="_blank">
                     Whitepaper
                 </NavLink>
-                <NavLink onClick={closeSidebar} to='/presale'>
+                <NavLink onClick={closeSidebar} as="a" href="https://exchange.pancakeswap.finance/#/swap" target="_blank">
                     Pre Sale
                 </NavLink>
                 <NavLink onClick={closeSidebar} to='/contact'>
