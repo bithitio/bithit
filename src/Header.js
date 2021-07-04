@@ -30,7 +30,7 @@ function Header(){
                 Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
                 </p>
                 <div class="btn-header">
-                    <a href="https://exchange.pancakeswap.finance/#/swap" target="_blank" >PRE SALE</a>
+                    <a href="https://exchange.pancakeswap.finance/#/swap" target="_blank" >SALE</a>
                 </div>
             </div>
 
