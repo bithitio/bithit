@@ -7,6 +7,7 @@ const Bittoken = () => {
             <div class="main-header">TOKEN DISTRIBUTION</div>
             <div class="token-box">
                 <div class="center"><img src={Imgtokendist} alt="" /></div>
+                
                 <div class="clear"></div>
             </div>
         </div>
