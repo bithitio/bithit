@@ -100,7 +100,6 @@ const Bitroadmap = () => {
 						<p>
 							Listing on <br />
 						        Coinmarketcap <br />
-							<strong class="red"> PRE SALE</strong>
 						</p>
 					</div>
 				</div>
