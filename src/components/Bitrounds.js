@@ -14,7 +14,6 @@ const Bitrounds = () => {
                                 <div class="rbox-detail">
                                     <div class="values">10%</div>
                                     <div class="label-1">TOTAL ALLOCATION</div>
-                                   
                                 </div>
                             </div>
                         </div>
@@ -28,7 +27,6 @@ const Bitrounds = () => {
                                 <div class="rbox-detail">
                                     <div class="values">40%</div>
                                     <div class="label-1">TOTAL ALLOCATION</div>
-                                    
                                 </div>
                             </div>
                         </div>
