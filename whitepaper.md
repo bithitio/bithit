@@ -197,7 +197,9 @@ A non-fungible token is a non-interchangeable token with unique characteristics 
 
 
 
-### Marketplace for the Web 3.0
+## Marketplace for the Web 3.0
+
+NFTs provide the ability to digitize real-world assets. The unique nature and public transaction history provide a strong use case for creating ownership certificates.   NFT and Certificate of Ownership BITHIT has a simple interface for generating a non-fungible token.  A non-fungible token is a non-interchangeable token with unique characteristics and public transaction history. BITHIT helps users create NFT conforms to the standard.
 
 BITHIT plans to launch a marketplace for auction and trading that makes a difference ,solution available through advance functionality including browser software cryptocurrency wallet , significantly lower fee-based multi-cryptocurrency support. Build-in reward system and an easy-to-use interface.  A marketplace that allows sellers to add products and services on the platform. Each item contains a product image, description, payment options.
 
