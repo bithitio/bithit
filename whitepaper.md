@@ -9,11 +9,6 @@ A smart payment process management service that acts as part of BITHIT’S contr
 
 Token holders use BITHIT as a utility token to participate in the platform such as auctions and prize contract that offer as an income strategy. 
 
-BITHIT tools include:
-BITHIT Service: Decentralized service for C2C, B2C, and B2B. And a smart payment process management service that function as a part of BITHIT’s contract service.
-
-
-
 
 
 ### Vision 
