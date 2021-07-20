@@ -117,6 +117,8 @@ Business agreement and peer to peer transactions. Provide a template contract th
 •	Help increase liquidity of the business.
 
 •	Offer automatic payment.
+
+
 No need for third-party brokerage or the presence of other people
 
 
