@@ -137,7 +137,7 @@ No need for third-party brokerage or the presence of other people
 
 • If there is a disagreement and the buyer refuses the shipment, the parties may negotiate to settle a dispute or initiate to settle a dispute resolution process on the platform
 	
-Processing payment with cryptocurrency
+### Processing payment with cryptocurrency
 
 BITHIT payment processing solution, promote the use of cryptocurrency with its own BITHIT token.
 A gateway to new opportunity and rapid scalability. One of main challenges facing ,crypto community is support for the BITHIT.
