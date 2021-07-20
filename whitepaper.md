@@ -90,7 +90,7 @@ An ERC-20 token was issued that convert ERC-20 token to BITHIT tokens, supported
 
 
 
-#### Ecosystem
+## Ecosystem
 
 Pay gas fees using supported tokens
 
