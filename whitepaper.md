@@ -10,8 +10,13 @@ A smart payment process management service that acts as part of BITHIT’S contr
 Token holders use BITHIT as a utility token to participate in the platform such as auctions and prize contract that offer as an income strategy. 
 
 
+## BITHIT tools include:
 
-### Vision 
+BITHIT Service: Decentralized service for C2C, B2C, and B2B. And a smart payment process management service that function as a part of BITHIT’s contract service.
+
+
+
+## Vision 
 
 Auction decentralized services and payments processing based on institutional-grade smart contracts that eliminate the need for buyers and sellers to trust each other. BITHIT aims to provide a user-centered solution to secure online and face-to-face transactions while broadening payments acceptance options through integrated currencies. 
 
@@ -38,9 +43,6 @@ BITHIT is bringing a new user experience to the global payments industry.
 • Open Online Marketplaces, Service Providers, and e-Commerce Platforms.
 
 
-## BITHIT tools include:
-
-BITHIT Service: Decentralized service for C2C, B2C, and B2B. And a smart payment process management service that function as a part of BITHIT’s contract service.
 
 
 Because started a new job are emerging online, more people are choosing independent work over traditional employment. Better protected payment solutions. 
