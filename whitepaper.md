@@ -26,7 +26,7 @@ BITHIT commercial transactions to incentivize commitment and eliminates the trus
 
 
 
-## Introduction
+### Introduction
 
 BITHIT is bringing a new user experience to the global payments industry.
 
@@ -60,7 +60,7 @@ Recent interest in the blockchain ecosystem and cryptoassets from listed compani
 
 
 
-### Problem 
+## Problem 
 
 International transactions are costly
 Cross-border B2B transactions will reach 35 trillion USD by 2022.
@@ -74,7 +74,7 @@ The current P2P market, auction and e-commerce platforms have commission structu
 
 
 
-### Solution
+## Solution
 
 Blockchain tecEcosystem
 
