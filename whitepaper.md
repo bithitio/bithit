@@ -38,6 +38,11 @@ BITHIT is bringing a new user experience to the global payments industry.
 • Open Online Marketplaces, Service Providers, and e-Commerce Platforms.
 
 
+## BITHIT tools include:
+
+BITHIT Service: Decentralized service for C2C, B2C, and B2B. And a smart payment process management service that function as a part of BITHIT’s contract service.
+
+
 Because started a new job are emerging online, more people are choosing independent work over traditional employment. Better protected payment solutions. 
 
 Blockchain:  Moving toward wider adoption
