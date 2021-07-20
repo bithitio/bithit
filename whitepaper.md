@@ -238,16 +238,15 @@ Initial Circulating Supply: 9,000,000 USD
 
 Initial Market Cap: 90,000,000 USD
 
-Pre-Sale Price: $ 0.0010 USD
-
-Public Sale Price: $ 0.0012 USD
-
-
 
 
 ### Token distribution
 
-Token Release Schedule
+![Block42](bit-tokendist.png)
+
+
+
+### Token Release Schedule
 
 •Private Sale 10%
 
@@ -259,8 +258,6 @@ Token Release Schedule
 
 12 months fully locked then 25% quarterly
 Unlocked and distributed as per incentive/governance event
-
-![Block42](bit-tokendist.png)
 
 BURN
 Burn the coins earned from the 5% auction fee every quarter.  
