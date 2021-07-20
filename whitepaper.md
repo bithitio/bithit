@@ -21,7 +21,7 @@ BITHIT commercial transactions to incentivize commitment and eliminates the trus
 
 
 
-Introduction
+## Introduction
 
 BITHIT is bringing a new user experience to the global payments industry.
 
