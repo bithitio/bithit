@@ -27,7 +27,7 @@ function Header(){
                 <h1 class="h1-header">BITHIT DEFI AUCTION</h1>
                 <h2 class="h2-header">DEFI • AUCTION • NFT</h2>
                 <p class="p-header">
-                Transparent financial infrastructure to generate returns for <br/>participants of decentralized governance believers.
+                A transparent financial infrastructure platform to generate returns for <br/>sellers and bidders.
                 </p>
                 <div class="btn-header">
                     <a href="https://exchange.pancakeswap.finance/#/swap" target="_blank" >SALE</a>
