@@ -10,7 +10,7 @@ const Bitonapp = () => {
             <div class="onapp-topic">Connect to all reliable platform</div>
             <div class="onapp-imgsec"><img src={Imgphone} alt="bithit" /></div>
             <div class="onapp-boxicon">
-                <div class="bicon-lable">Avaliable download on</div>
+                <div class="bicon-lable">Coming Soon On</div>
                 <div class="bicon-btn">
                     <a href=""><img src={Imgappstore} alt="appstore" /></a>
                     <a href=""><img src={Imggoogleplay} alt="googleplay" /></a>
