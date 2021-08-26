@@ -28,12 +28,7 @@ const Navbar = () => {
                 <NavLink onClick={closeSidebar} as="a" href={bithitpdf} target="_blank">
                     Whitepaper
                 </NavLink>
-                <NavLink onClick={closeSidebar} as="a" href="https://exchange.pancakeswap.finance/#/swap" target="_blank">
-                    Sale
-                </NavLink>
-                <NavLink onClick={closeSidebar} to='/contact'>
-                    Contact
-                </NavLink>
+                
                 <NavLink onClick={closeSidebar} as="a" href="https://github.com/bithitio" target="_blank">
                     Github
                 </NavLink>
