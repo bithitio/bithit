@@ -5,7 +5,7 @@ const Bitrounds = () => {
         <div class="bit-rounds">
             <div class="main-header">Sale Rounds</div>
                         <div class="rounds-col">
-                            <div class="rounds-topic">Pre Sale</div>
+                            <div class="rounds-topic">Private Sale</div>
                             <div class="rounds-box">
                                 <div class="rbox-top">
                                     Sold
@@ -19,7 +19,7 @@ const Bitrounds = () => {
                             </div>
                         </div>
                         <div class="rounds-col right">
-                            <div class="rounds-topic blue">Private Sale</div>
+                            <div class="rounds-topic blue">Public Sale</div>
                             <div class="rounds-box">
                                 <div class="rbox-top">
                                     Coming soon
